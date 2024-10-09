@@ -1,0 +1,7 @@
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Ethan Yin
+// GITHUB: https://github.com/skibidies
+
+console.log('Hello, World!');
+console.log('Goodbye.');
